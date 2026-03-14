@@ -17,6 +17,12 @@ Chan_SCCP is free software. Please see the file COPYING for details.
 For documentation, please see the files in the doc subdirectory.
 For building and installation instructions please see the INSTALL file.
 
+## Project Lineage
+
+This repository stems from the upstream [chan-sccp/chan-sccp](https://github.com/chan-sccp/chan-sccp/) project and continues under the same GPL licensing already included in this tree.
+
+This line has been modernized for newer versions of Asterisk and includes additional enhancements to restore RTP voice stream handling.
+
 ### Table of Contents
 
 * [Table of Contents](#table-of-contents)
