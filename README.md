@@ -19,9 +19,9 @@ For building and installation instructions please see the INSTALL file.
 
 ## Project Lineage
 
-This repository stems from the upstream [chan-sccp/chan-sccp](https://github.com/chan-sccp/chan-sccp/) project and continues under the same GPL licensing already included in this tree.
+This repository began from the upstream [chan-sccp/chan-sccp](https://github.com/chan-sccp/chan-sccp/) codebase and continues under the same GPL licensing already included in this tree, but it is not intended to be a 1:1 mirror of upstream.
 
-This line has been modernized for newer versions of Asterisk and includes additional enhancements to restore RTP voice stream handling.
+This line has been substantially reworked to support additional and newer Asterisk releases that were not supported in the source we started from, broaden compatibility across newer Linux distributions and other platform variants, and restore RTP voice stream handling with further operational enhancements.
 
 ### Table of Contents
 
